@@ -1,0 +1,12 @@
+To create clusters and annotate the proverbs to them, I faced the below problems:
+- Even though the proverbs were written in my native language, I could't understand what the meant or for many, I couldn't understand anything they said.
+This led me to create a miscellanious cluster (since i couldn't look up the meanings) and group some unknown proverbs there.
+- In the cluster creation phase it was difficult to understand which parts of each proverbs were important enough to become a separate class, without looking at all the
+separate proverbs. That led me to looping through the list of phrases many times.
+- Since I couldn't exactly understand the meanings of the phrases I had to decide if some words were enough to place a proverb into a class. (when it wasn't obvious)
+
+If i had to redo the annotation. I would:
+- Create a class for each proverb based on its prominent characteristic.
+- I would then loop through the classes, grouping the ones that were very similar, or the ones with very small size in the end.
+- Of course if I had the ability to search the web, I would look for existing bibliography that categorizes greek proverbs.
+- Also I would research their meaning to achieve a better final annotation.  	 
